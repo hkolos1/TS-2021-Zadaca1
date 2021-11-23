@@ -2,8 +2,8 @@
 
 ## Zadaća 1 - Inspekcija koda
 ### Članovi tima:
-Harun Kološ
-Berin Mašović
-Alen Mehanović
+Harun Kološ,
+Berin Mašović,
+Alen Mehanović,
 
 
