@@ -1,4 +1,4 @@
-# Testiranje softvera/Verifikacija i validacija softvera 2021/2021
+# ETF Sarajevo - Testiranje softvera 2021/2022
 
 ## Zadaća 1 - Inspekcija koda
 ### Članovi tima:
