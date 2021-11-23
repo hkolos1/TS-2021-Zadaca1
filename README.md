@@ -4,6 +4,6 @@
 ### Članovi tima:
 Harun Kološ,
 Berin Mašović,
-Alen Mehanović,
+Alen Mehanović
 
 
