@@ -1,0 +1,8 @@
+C:\Users\HARUN\source\Workspaces\Zadaca1\bin\Debug\Zadaca1.exe.config
+C:\Users\HARUN\source\Workspaces\Zadaca1\bin\Debug\Zadaca1.exe
+C:\Users\HARUN\source\Workspaces\Zadaca1\bin\Debug\Zadaca1.pdb
+C:\Users\HARUN\source\Workspaces\Zadaca1\obj\Debug\Zadaca1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HARUN\source\Workspaces\Zadaca1\obj\Debug\Zadaca1.csproj.CoreCompileInputs.cache
+C:\Users\HARUN\source\Workspaces\Zadaca1\obj\Debug\Zadaca1.exe
+C:\Users\HARUN\source\Workspaces\Zadaca1\obj\Debug\Zadaca1.pdb
+C:\Users\HARUN\source\Workspaces\Zadaca1\obj\Debug\Zadaca1.csproj.AssemblyReference.cache
